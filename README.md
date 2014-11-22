@@ -13,7 +13,7 @@ put lt file to /usr/local/bin directory
 
 in order to launch lighttable from mac terminal
 ```shell
-$ lt [path_to_the_file_or_dir]
+$ lt [<path_to_the_file_or_dir>]
 ```
 
 ### customization
