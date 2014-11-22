@@ -1,7 +1,7 @@
 lighttable-bin
 ==============
 
-shell script for opening the LightTable IDE from mac terminal
+shell script for opening the [LightTable IDE](https://github.com/LightTable/LightTable) from mac terminal
 
 ## installation
 
