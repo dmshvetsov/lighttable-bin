@@ -18,4 +18,4 @@ $ lt [<path_to_the_file_or_dir>]
 
 ### customization
 
-if you want opening LightTable with a different command you have to rename ```lt``` into a desirable command name
+if you want opening [LightTable](https://github.com/LightTable/LightTable) with a different command you have to rename ```lt``` into a desirable command name
