@@ -1,3 +1,6 @@
 #!/bin/sh
-FILE_TO_OPEN="$1"
-open -a /Applications/LightTable/LightTable.app $FILE_TO_OPEN
+PATH_TO_OPEN="$1"
+if [ ! -f "$PATH_TO_OPEN" ]
+then touch $PATH_TO_OPEN
+fi
+open -a /Applications/LightTable/LightTable.app $PATH_TO_OPEN
