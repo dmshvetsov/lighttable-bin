@@ -1,0 +1,3 @@
+#!/bin/sh
+FILE_TO_OPEN="$1"
+open -a /Applications/LightTable/LightTable.app $FILE_TO_OPEN
