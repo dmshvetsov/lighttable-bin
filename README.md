@@ -7,6 +7,12 @@ shell script for opening the [LightTable IDE](https://github.com/LightTable/Ligh
 
 put ```lt``` file to ```/usr/local/bin directory```
 
+## installation (via npm)
+
+will automatically link lt into your `/usr/local/bin`
+
+    $ npm install lighttable-bin -g
+
 ## usage
 
 ### launch
